@@ -35,9 +35,9 @@ Create a stunning login and signup experience with this animated form that featu
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mdsahban/login-singup-form/blob/main/preview1.png)
+![App Screenshot](https://github.com/mdsahban/login-singup-form/blob/main/Login%20preview.png)
 
-![App Screenshot](https://github.com/mdsahban/login-singup-form/blob/main/prewiew2.png)
+![App Screenshot](https://github.com/mdsahban/login-singup-form/blob/main/signup%20preview.png)
 
 
 ## Authors
